@@ -1,7 +1,7 @@
 # Podcast-problema-ambientale
 ## Descrizione del Progetto
 
-Questo è un **progetto scolastico** di gruppoo, incentrato sul tema del problema ambientale. L'obiettivo principale è sensibilizzare sulla crisi ambientale globale attraverso una chiave di lettura multidisciplinare, unendo dati scientifici attuali e riflessioni letterarie.
+Questo è un **progetto scolastico** di gruppo, incentrato sul tema del problema ambientale. L'obiettivo principale è sensibilizzare sulla crisi ambientale globale attraverso una chiave di lettura multidisciplinare, unendo dati scientifici attuali e riflessioni letterarie.
 
 Il progetto è strutturato sotto forma di **podcast/programma radiofonico** intitolato *"La Perla del Giorno"*.
 
